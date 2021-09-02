@@ -1,15 +1,53 @@
 {
-  "normal": {
-    "What’s the best thing about Switzerland?": "I don’t know, but the flag is a big plus.",
-    "Why do we tell actors to “break a leg?": "Because every play has a cast.",
-    "Hear about the new restaurant called Karma?": "There’s no menu: You get what you fucking deserve.",
-    "Did you hear about the actor who fell through the floorboards?": "He was just going through a stage.",
-    "Did you hear about the claustrophobic astronaut?": "He just needed a little space.",
-    "Why don’t scientists trust atoms?": "Because they make up everything.",
-    "A man tells his doctor, .Doc, help me. I’m addicted to Twitter!.": "The doctor replies, .Sorry, I don’t follow you.",
-    "What did the Buddhist say to the hot dog vendor?": "Make me one with everything.",
-    "What is another name for a joke?": "you.",
-    "What did the left eye say to the right eye?": "Between you and me, something smells."
-  },
-  "offensive": {"What is a pedophiles favorite part about Halloween?": "Free delivery."}
+
+  "normal": [
+    [
+      "What's the best thing about Switzerland?",
+      "I don't know, but the flag is a big plus."
+    ],
+    [
+      "Why do we tell actors to 'break a leg'?",
+      "Because every play has a cast."
+    ],
+    [
+      "Hear about the new restaurant called Karma?",
+      "There's no menu,  You get what you fucking deserve."
+    ],
+    [
+      "Did you hear about the actor who fell through the floorboards?",
+      "He was just going through a stage."
+    ],
+    [
+      "Did you hear about the claustrophobic astronaut?",
+      "He just needed a little space."
+    ],
+    [
+      "Why don't scientists trust atoms?",
+      "Because they make up everything."
+    ],
+    [
+      "A man tells his doctor, 'Doc, help me. I'm addicted to Twitter!'",
+      "The doctor replies, .Sorry, I don't follow you."
+    ],
+    [
+      "What did the Buddhist say to the hot dog vendor?",
+      "Make me one with everything."
+    ],
+    [
+      "What is another name for a joke?",
+      "you."
+    ],
+    [
+      "What did the left eye say to the right eye?",
+      "Between you and me, something smells."
+    ]
+  ],
+
+  "offensive": [
+    [
+      "What is a pedophiles favorite part about Halloween?",
+      "Free delivery."
+    ]
+  ]
+
 }
